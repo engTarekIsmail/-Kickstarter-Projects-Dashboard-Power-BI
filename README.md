@@ -1,8 +1,5 @@
 # 📊 Kickstarter Projects Dashboard — Power BI
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&()
----
-
 ## 📌 Project Overview
 
 This **Power BI dashboard** provides a comprehensive analysis of **Kickstarter crowdfunding campaigns** worldwide. It uncovers trends across project categories, funding success rates, currency distributions, and yearly growth patterns — helping understand what drives crowdfunding success on one of the world's largest crowdfunding platforms.
@@ -22,7 +19,8 @@ This **Power BI dashboard** provides a comprehensive analysis of **Kickstarter c
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard.png)
+![Dashboard Preview]<img width="1171" height="661" alt="dashboard" src="https://github.com/user-attachments/assets/56750d25-8b91-4688-82ef-5e5fe1f84854" />
+
 
 ---
 
